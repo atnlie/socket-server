@@ -1,0 +1,12 @@
+
+> socket-server@1.0.0 dev
+> tsc -b && node dist/server.js
+
+Starting.....
+
+Server listening on Port: 8900
+Client connected
+Client connected
+Socket connection connected
+Socket connection connected
+Socket connection connected

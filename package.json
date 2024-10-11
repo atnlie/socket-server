@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "tsc -w",
-    "nodemon": "tsc -b && nodemon dist/server.js"
+    "nodemon": "tsc -b && nodemon dist/server.js",
+    "dev": "tsc -b && node dist/server.js"
   },
   "author": "",
   "license": "ISC",
